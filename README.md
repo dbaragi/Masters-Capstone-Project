@@ -4,3 +4,5 @@
 data preparation in Excel and subsequent preprocessing in Python.
 - Intending to showcase project findings through interactive visualizations in Tableau for effective communication of user stories and
 actionable insights.
+
+cleaned data: https://drive.google.com/file/d/1dJulk0WURXMbOGvTUaP82_jh2Ns1z2ts/view?usp=share_link
