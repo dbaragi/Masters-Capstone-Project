@@ -56,17 +56,13 @@ RFM analysis is a method used to analyze customer behavior based on three key me
 
 K-means clustering was utilized to segment customers based on their RFM scores and other relevant features.
 
-## Results
-
-The data analysis phase of the project yielded valuable insights into various aspects of the online retail business.
-
 ## Conclusion
 
 Understanding customer value is vital in today's online retail landscape. Traditional methods like surveys and market research provide valuable insights, but with the vast amount of customer data available, businesses must adopt sophisticated analytical methods to extract actionable insights.
 
 ## Future Scope
 
-Moving forward, there are several avenues for future research and development in this area.
+Moving forward, there are several avenues for future research and development in this area. Firstly, incorporating additional variables such as demographic data and browsing behavior could enhance the accuracy of customer segmentation and predictive models. Additionally, exploring advanced machine learning techniques beyond K-means clustering could provide deeper insights into customer behavior patterns.
 
 ## Author
 
