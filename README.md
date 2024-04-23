@@ -1,10 +1,6 @@
 # Optimizing Customer Value: RFM Based Segmentation in Online Retail
-- cleaned data: https://drive.google.com/file/d/1dJulk0WURXMbOGvTUaP82_jh2Ns1z2ts/view?usp=share_link
 
-- Tableau Public: https://public.tableau.com/views/CapstoneProject_17138013092280/OnlineRetailSales?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
-# Optimizing Customer Value: RFM Based Segmentation in Online Retail
-
-This repository contains the LaTeX source code for the paper titled "Optimizing Customer Value: RFM Based Segmentation in Online Retail". The paper explores the use of RFM (Recency, Frequency, Monetary) analysis and K-means clustering to segment customers in the online retail sector and tailor marketing strategies accordingly.
+This repository contains the source code for the project titled "Optimizing Customer Value: RFM Based Segmentation in Online Retail". The project explores the use of RFM (Recency, Frequency, Monetary) analysis and K-means clustering to segment customers in the online retail sector and tailor marketing strategies accordingly.
 
 ## Introduction
 
@@ -75,6 +71,12 @@ Moving forward, there are several avenues for future research and development in
 ## Author
 
 - **Deepti Gururaj Baragi** - April 23, 2024
+
+## Links
+
+- cleaned data: https://drive.google.com/file/d/1dJulk0WURXMbOGvTUaP82_jh2Ns1z2ts/view?usp=share_link
+
+- Tableau Public: https://public.tableau.com/views/CapstoneProject_17138013092280/OnlineRetailSales?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 ## License
 
